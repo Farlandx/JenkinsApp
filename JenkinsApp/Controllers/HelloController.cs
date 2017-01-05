@@ -17,7 +17,7 @@ namespace JenkinsApp.Controllers
             var result = new APITestModel()
             {
                 Message = "Auto deploy",
-                Version = "1.0.1"
+                Version = "1.0.2"
             };
             return result;
         }
